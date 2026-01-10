@@ -1,4 +1,7 @@
-# Netflix Clone
+# Netflix Clone (Work in Progress)
+
+⚠️ **Note:** This project is currently under development.  
+Some features may not be fully functional yet.
 
 A **Netflix-style clone** built with **React**, **Vite**, and **Bootstrap**.  
 
@@ -6,11 +9,11 @@ Live Demo: [Netflix Clone](https://FarheenArshad3377.github.io/Netflix-Clone/)
 
 ---
 
-## Features
+## Features (In Progress)
 
 - Home page with trending and category movies  
-- Movie cards with hover effect  
-- Modal popup for movie details  
+- Movie cards with hover effect (partially implemented)  
+- Modal popup for movie details (work in progress)  
 - Login & Signup pages (frontend only)  
 - Responsive design using Bootstrap  
 
