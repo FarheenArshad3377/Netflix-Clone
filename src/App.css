@@ -79,7 +79,7 @@ body {
 }
 .banner {
   background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.3)),
-             url('/Netflix-Clone/banner.png');
+              url('banner.png'); /* 👈 remove /Netflix-Clone/ */
   color: white;
   display: flex;
   flex-direction: column;
@@ -89,6 +89,7 @@ body {
   padding: 20px;
   padding-top: 120px; /* navbar height + extra space */
 }
+
 
 .banner-content {
   max-width: 700px; /* reduce width for para and buttons */
