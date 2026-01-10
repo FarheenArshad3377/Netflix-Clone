@@ -79,7 +79,7 @@ body {
 }
 .banner {
   background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.3)),
-              url('banner.png'); /* 👈 remove /Netflix-Clone/ */
+              url('dist/assets/banner.png'); /* 👈 remove /Netflix-Clone/ */
   color: white;
   display: flex;
   flex-direction: column;
