@@ -12,7 +12,7 @@ const AnotherNavbar = () => {
 
           <ul className="nav-links">
             <li>
-              <Link to="/home">Home</Link>
+              <Link to="/">Home</Link>
             </li>
             <li>
               <Link to="/movie">TV Shows</Link>
@@ -41,3 +41,4 @@ const AnotherNavbar = () => {
 }
 
 export default AnotherNavbar
+
