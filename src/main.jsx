@@ -22,9 +22,7 @@ const router = createBrowserRouter(
       ],
     },
   ],
-  {
-    basename: "/Netflix-Clone", // 👈 GitHub repo name
-  }
+
 );
 
 createRoot(document.getElementById('root')).render(
