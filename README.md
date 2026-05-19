@@ -1,4 +1,4 @@
-# Netflix Clone (Work in Progress)
+# CineStream – REST API Powered Media App (Work in Progress)
 
 ⚠️ **Note:** This project is currently under development.  
 Some features may not be fully functional yet.
